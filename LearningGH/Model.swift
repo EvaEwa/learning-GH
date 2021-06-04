@@ -10,6 +10,6 @@ import Foundation
 
 struct Model {
     
-    var model: String?
+    var model: String = "Ewa"
     
 }

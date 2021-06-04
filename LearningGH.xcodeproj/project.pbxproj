@@ -11,6 +11,7 @@
 		EADBD2A2266A80C000DF5781 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EADBD2A1266A80C000DF5781 /* ContentView.swift */; };
 		EADBD2A4266A80C500DF5781 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EADBD2A3266A80C500DF5781 /* Assets.xcassets */; };
 		EADBD2A7266A80C500DF5781 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EADBD2A6266A80C500DF5781 /* Preview Assets.xcassets */; };
+		EADBD2AF266A893700DF5781 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = EADBD2AE266A893700DF5781 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		EADBD2A3266A80C500DF5781 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EADBD2A6266A80C500DF5781 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EADBD2A8266A80C500DF5781 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EADBD2AE266A893700DF5781 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				EADBD2A3266A80C500DF5781 /* Assets.xcassets */,
 				EADBD2A8266A80C500DF5781 /* Info.plist */,
 				EADBD2A5266A80C500DF5781 /* Preview Content */,
+				EADBD2AE266A893700DF5781 /* Model.swift */,
 			);
 			path = LearningGH;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EADBD2AF266A893700DF5781 /* Model.swift in Sources */,
 				EADBD2A2266A80C000DF5781 /* ContentView.swift in Sources */,
 				EADBD2A0266A80C000DF5781 /* LearningGHApp.swift in Sources */,
 			);
